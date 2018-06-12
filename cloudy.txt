@@ -1,1 +1,2 @@
 nani,cloudy?
+yes,today is cloudy.
