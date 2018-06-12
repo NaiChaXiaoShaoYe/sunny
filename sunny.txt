@@ -1,1 +1,2 @@
 today is sunny.
+yestarday is sunny too.
